@@ -1,18 +1,4 @@
-/* DataStructue 2nd project:
- * teammates:
- * username:			id:
- *   michelnajjar			316444769
- *   yousifzedany			315033837
- *   abdullahg				206940777
- *
- */
 
-
-/*
-You must NOT change the signatures of classes/methods in this skeleton file.
-You are required to implement the methods of this skeleton file according to the requirements.
-You are allowed to add classes, methods, and members as required.
- */
 
 import java.util.Arrays;
 import java.util.Random;
